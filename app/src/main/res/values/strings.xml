@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BirthDayWishing</string>
+    <string name="name">Name</string>
+    <string name="create_birthday_card">Create BirthDay Card</string>
+    <string name="enter_the_name">Enter the Name :</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="happy_birthday">Happy BirthDay</string>
+    <string name="enter_messages_or_wishes">Enter Messages Or Wishes</string>
+</resources>
